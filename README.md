@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily missed error in Python: an unclosed parenthesis in a function definition.  The `bug.py` file contains the erroneous code, while `bugSolution.py` provides the corrected version.  This type of error can be easily identified through careful code review and use of a good IDE with syntax highlighting.
